@@ -39,5 +39,5 @@
 
 <a href="https://www.linkedin.com/in/kavishka-sulakshana-12b571206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRRgKBTGfRYOEKMRXhzPIoQ%3D%3D" target="_blank">
 <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/new-2019-logo.png" width="100px"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;### Hi there 👋
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
