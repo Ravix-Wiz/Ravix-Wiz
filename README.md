@@ -3,8 +3,8 @@
 
 <p align='center'>💻 University of Colombo School of Computing 💻<br></p>
 <div>
-  <li> 📡 Web developer </li>
-  <li> 🔦 Interested in <i>machine learning</i> | <i>web dev.</i> | <i>Mobile app dev.</i> </li>
+  <li> 📡 AI/ML/Data Enthusiast </li>
+  <li> 🔦 Interested in <i>Machine learning</i> | <i>Artificial Intelligence</i> | <i>Data Science</i> </li>
 </div>
 
 <br>
