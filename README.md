@@ -23,16 +23,16 @@
 
 ### ✨ GitHub Details ✨
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavishka-sulakshana&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravix-Wiz&theme=transparent)
 <br>
 
 ### ⭐ GitHub Stats ⭐
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kavishka-sulakshana&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravix-Wiz&theme=transparent)
 
 ### ✨ GitHub Profile Trophies ✨
 
-![](https://github-profile-trophy.vercel.app/?username=kavishka-sulakshana&column=6)
+![](https://github-profile-trophy.vercel.app/?username=Ravix-Wiz&column=6)
 
 <br>
 <h2>Connect with me </h2>
