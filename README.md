@@ -11,7 +11,7 @@
 
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,r,octave,c,cpp,py,js,html,php,scala,scala,matlab,react,spring,css,tailwind,threejs,vscode,mongodb,mysql,postgresql,docker,github,gitlab,azure,figma" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,r,octave,c,cpp,py,js,html,php,keras,sklearn,numpy,pandas,opencv,plotly,d3,jupyter,scala,matlab,react,spring,css,tailwind,threejs,vscode,mongodb,mysql,postgresql,docker,github,gitlab,azure,figma" alt="skills logos" /> <br>
 </p>
 
 <br>
