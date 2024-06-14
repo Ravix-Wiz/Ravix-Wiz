@@ -11,7 +11,7 @@
 
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,r,octave,c,cpp,py,js,html,php,opencv,d3,scala,matlab,react,spring,css,tailwind,threejs,vscode,mongodb,mysql,postgresql,docker,github,gitlab,azure,figma,idea" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,r,octave,c,cpp,py,js,html,php,opencv,d3,scala,matlab,react,spring,css,tailwind,threejs,vscode,mongodb,mysql,postgresql,docker,github,gitlab,azure,figma" alt="skills logos" />
 </p>
 <p align="center">
 <img width="45" src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" alt="Atom" title="Atom"/>
