@@ -12,6 +12,8 @@
 ### ⭐ Languages and Skills ⭐
 <p align="center"> 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,r,octave,c,cpp,py,js,html,php,opencv,d3,scala,matlab,react,spring,css,tailwind,threejs,vscode,mongodb,mysql,postgresql,docker,github,gitlab,azure,figma" alt="skills logos" />
+</p>
+<p align="center">
 <img width="45" src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" alt="Atom" title="Atom"/>
 <img width="45" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
 <img width="45" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
@@ -22,8 +24,7 @@
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/>
 <img width="45" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 <img width="45" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" alt="Godot" title="Godot"/>
-<img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
-</p>
+<img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></p>
 
 
 <br>
