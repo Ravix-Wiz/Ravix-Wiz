@@ -3,8 +3,8 @@
 
 <p align='center'>💻 University of Colombo School of Computing 💻<br></p>
 <div>
-  <li> 📡 AI/ML/Data Enthusiast </li>
-  <li> 🔦 Interested in <i>Machine learning</i> | <i>Artificial Intelligence</i> | <i>Data Science</i> </li>
+  <li> 📡 Code Quality Fanatic | Dev Enthusiast </li>
+  <li> 🔦 Interested in <i>Software Development</i> | <i>Software Quality Assurance and Software Testing</i> | <i>Machine learning</i> | <i>Artificial Intelligence</i> | <i>Data Science</i> </li>
 </div>
 
 <br>
